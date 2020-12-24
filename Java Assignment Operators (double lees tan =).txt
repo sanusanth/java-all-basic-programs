@@ -4,4 +4,4 @@ public class Main {
     x >>= 3;
     System.out.println(x);
   }
-}
+} // Creater By Sanusanth
