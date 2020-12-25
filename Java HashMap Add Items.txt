@@ -9,4 +9,4 @@ public class Main {
     capitalCities.put("USA", "Washington DC");
     System.out.println(capitalCities); 
   }
-}
+}// Creater By Sanusanth
