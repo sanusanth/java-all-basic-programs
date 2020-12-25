@@ -5,4 +5,4 @@ public class Main {
     LocalTime myObj = LocalTime.now();
     System.out.println(myObj);
   }  
-}  
+}  \\ creater by Sanusanth 
