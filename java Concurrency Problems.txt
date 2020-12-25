@@ -12,4 +12,4 @@ public class Main extends Thread {
   public void run() {
     amount++;
   }
-}
+}// creater by Sanusanth 
