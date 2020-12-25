@@ -11,4 +11,4 @@ public class Main {
     cars.add("Mazda");
     System.out.println(cars.size());
   }
-}
+} \\ creater by Sanusanth 
