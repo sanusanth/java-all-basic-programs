@@ -3,4 +3,4 @@ public class Main {
     String txt = "Please locate where 'locate' occurs!";
     System.out.println(txt.indexOf("locate"));
   }
-}
+} \\ creater by Sanusanth 
