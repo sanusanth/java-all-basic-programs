@@ -10,4 +10,4 @@ public class Main {
     capitalCities.remove("England");
     System.out.println(capitalCities); 
   }
-}
+}// Creater By Sanusanth
