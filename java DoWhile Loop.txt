@@ -7,4 +7,4 @@ public class Main {
     }
     while (i < 5);  
   }
-}
+} \\ creater by Sanusanth 
