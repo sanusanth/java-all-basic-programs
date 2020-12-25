@@ -9,4 +9,4 @@ public class Main {
     Main myObj = new Main(5);
     System.out.println(myObj.x);
   }
-}
+}// creater by Sanusanth 
