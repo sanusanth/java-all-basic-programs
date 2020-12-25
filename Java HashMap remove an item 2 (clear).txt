@@ -10,4 +10,4 @@ public class Main {
     capitalCities.clear();
     System.out.println(capitalCities); 
   }
-}
+}// Creater By Sanusanth
