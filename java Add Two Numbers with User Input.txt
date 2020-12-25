@@ -14,4 +14,4 @@ public class MyClass {
     sum = x + y;
     System.out.println("Sum is: " + sum); // Output user input
   }
-} 
+} // Creater By Sanusanth
